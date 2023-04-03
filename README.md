@@ -1,3 +1,3 @@
 # repositoriocubosacademy
 Repositorio Cubos Academy
-Esse repositório contém o exercício da primeira aula realizado no dia 03/04/2023 e terminado no mesmo dia com a ajuda do professor Rafael Dias.
+Esse repositório contém o exercício da primeira aula realizado no dia 03/04/2023
